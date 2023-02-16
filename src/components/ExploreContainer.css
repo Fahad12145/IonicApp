@@ -1,0 +1,48 @@
+.navbar{
+  background-color: #ffff;
+  position: fixed;
+  overflow:hidden;
+  display: flex;
+  width: 100%;
+  height: 60px;
+  border: 0px solid grey;
+  justify-content: space-around;
+}
+.link{
+  padding-top: 10px;
+  font-size: 15px;
+  font-weight: 700;
+  background: none;
+  color:grey
+}
+.link:active{
+color: black;
+font-size:18px ;
+}
+.link:active{
+  color: black;
+font-size:18px ;
+}
+.link:visited{
+  outline-color: black;
+  color: black;
+font-size:18px ;
+}
+.seconddiv{
+width: auto;
+height: 500px;
+}
+.image{
+  width:500px
+}
+.attach{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 350px;
+  height: 30px;
+  background-color: blue;
+  color: #ffff;
+  border-radius: 50px;
+ margin: auto;
+}
